@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Name: Xiaoyan Jiang
 import csv
 
 CLASS_LABEL_COLUMN = 0
