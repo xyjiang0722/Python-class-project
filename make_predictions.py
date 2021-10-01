@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Name: Xiaoyan Jiang
 import csv
 
 links_column = 0
